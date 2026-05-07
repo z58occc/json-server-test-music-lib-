@@ -74,6 +74,5 @@
       "date": "2026-05-04",
       "id": "qTyCJY3PIYE"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
